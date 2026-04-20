@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 const title = 'Vue 3 + Vite'
 const subtitle = 'Repository initialized and ready for development.'
 </script>
